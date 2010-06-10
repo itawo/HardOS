@@ -1,9 +1,11 @@
 [ ] Develop a support to SDCard (fat16, fat32, ext2, ext3)
 [ ] Develop the loader that starts the kernel
-[ ] Develop the kernel (real time mode, multi-tasking support, support for PIN
-        Input/Output modification & selection, adding support for alternate and
-        improved hardware (like wifi, bluetooth))
-[ ] Develop the swap extension (support in the kernel and the partition on
-        sdcard)
+[ ] Develop the kernel 
+	( ) real time mode
+	( ) multi-tasking support, support for PIN Input/Output modification & selection
+	( ) adding support for alternate
+	( ) improved hardware (like wifi, bluetooth..)
+[ ] Develop the swap extension 
+	( ) support in the kernel and the partition on sdcard
 [ ] Develop a shell
 [ ] Develop binary system
