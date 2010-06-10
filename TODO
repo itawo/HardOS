@@ -1,4 +1,8 @@
-[ ] Develop a support to SDCard (fat16, fat32, ext2, ext3)
+[ ] Develop a support to SDCard
+    ( ) fat16
+    ( ) fat32
+    ( ) ext2 
+    ( ) ext3
 [ ] Develop the loader that starts the kernel
 [ ] Develop the kernel 
 	( ) real time mode
